@@ -50,4 +50,7 @@ It offers a clean UI, budget summaries, and visual charts to make tracking simpl
 
 *(Optional — add screenshot if you have one)*  
 ```markdown
-![App Screenshot]("C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-11-13 170847.png")
+![App Screenshot]("## 📸 Preview
+
+![App Screenshot](./screenshot.png)
+
