@@ -46,11 +46,8 @@ It offers a clean UI, budget summaries, and visual charts to make tracking simpl
 
 ---
 
-## 📸 Preview  
+## 📸 Preview
 
-*(Optional — add screenshot if you have one)*  
-```markdown
-![App Screenshot]("## 📸 Preview
+![App Screenshot](./screenshot.png.png)
 
-![App Screenshot](./screenshot.png)
 
